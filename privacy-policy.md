@@ -115,4 +115,4 @@ Changes will be posted on this page with an updated revision date.
 If you have any questions regarding this Privacy Policy, contact:
 
 **Chiera Technologies**
-Email: [support@yourdomain.com](mailto:support@yourdomain.com)
+Email: [chieratechnologies@gmail.com](mailto:support@yourdomain.com)
